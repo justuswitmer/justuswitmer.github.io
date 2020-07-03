@@ -7,6 +7,10 @@
 	text-align: center;
 }
 
+.LinkedIn {
+	height: 100%;
+	width: auto;
+	background-image:url("Assets/LI-Logo.png");
 .experience {
 	font-size: 42px;
 }
